@@ -1,0 +1,10 @@
+Game Theory provides powerful theoretic models for analyzing transportation systems.
+In this project, we investigate the social dilemma between short-term self-interest and long-term
+collective well-being while traveling on a transportation network. Using the two main theories
+describing traffic flow networks (S tatic Traffic Assignment (STA) vs. Dynamic Traffic Assignment
+(DTA) ), we present the problem of Lane Switching from a game-theoretic point of view. We
+introduce an algorithm that uses Best Response Dynamics to compute the pure-strategy Nash
+equilibrium of a sample transportation network where all agents are selfish and
+non-coordinating. Using an integer optimization problem, we compute the socially optimal
+solution minimizing the cost objective function, and finally, we calculate the Price of Anarchy of
+this transportation network.
